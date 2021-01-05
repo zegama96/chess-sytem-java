@@ -8,12 +8,8 @@ public class Piece {
 		position = null;
 		this.board = board;
 	}
-
 	protected Board getBoard() {
 		return board;
 	}
-	
-	
-	
 	
 }
